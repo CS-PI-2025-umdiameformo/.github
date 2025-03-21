@@ -8,6 +8,7 @@
 - **Gabriel Tomita**
 - **Theo**
 - **Pedro Tavares**
+- **Lucas Fornazieri**
 
 ## Sobre o Projeto
 
